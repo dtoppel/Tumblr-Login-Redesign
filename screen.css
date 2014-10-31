@@ -13,10 +13,10 @@ html {
 ul {
   display: block;
   text-align:center;
-  margin-top:8px;
   font-size: 12px;
   padding:8px;
   font-size: 16px;
+  background-color:#2c4762
 }
 p{
   text-align:center;
